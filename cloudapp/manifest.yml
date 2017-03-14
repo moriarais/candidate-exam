@@ -1,0 +1,5 @@
+---
+applications:
+- name: cloudapp
+  memory: 256M
+  instances: 1
