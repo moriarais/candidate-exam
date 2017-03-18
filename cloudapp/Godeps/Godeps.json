@@ -1,0 +1,50 @@
+{
+	"ImportPath": "cloudapp",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/cloudfoundry-community/go-cfclient",
+			"Rev": "04677a8c132ab37ed6b130f6970eed1b3c90ff3e"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/inject",
+			"Comment": "v1.0-rc1-10-g33e0aa1",
+			"Rev": "33e0aa1cb7c019ccc3fbe049a8262a6403d30504"
+		},
+		{
+			"ImportPath": "github.com/go-martini/martini",
+			"Comment": "v1.0-188-g22fa469",
+			"Rev": "22fa46961aabd2665cf3f1343b146d20028f5071"
+		},
+		{
+			"ImportPath": "github.com/pkg/errors",
+			"Comment": "v0.8.0-4-gff09b13",
+			"Rev": "ff09b135c25aae272398c51a07235b90a75aa4f0"
+		},
+		{
+			"ImportPath": "go4.org/reflectutil",
+			"Rev": "169ea6cabe2a4888dba958edaecc9e9751adc711"
+		},
+		{
+			"ImportPath": "go4.org/sort",
+			"Rev": "169ea6cabe2a4888dba958edaecc9e9751adc711"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "a6577fac2d73be281a500b310739095313165611"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2",
+			"Rev": "30fcca6531eb4bb278493c9fb299295b3b145934"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2/clientcredentials",
+			"Rev": "30fcca6531eb4bb278493c9fb299295b3b145934"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2/internal",
+			"Rev": "30fcca6531eb4bb278493c9fb299295b3b145934"
+		}
+	]
+}

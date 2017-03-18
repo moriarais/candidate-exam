@@ -3,3 +3,5 @@ applications:
 - name: cloudapp
   memory: 256M
   instances: 1
+  buildpack: https://github.com/cloudfoundry/go-buildpack.git
+
